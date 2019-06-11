@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AppLoginFirebase</string>
+    <string name="valBtnLogout">Cerrar Sesión</string>
+</resources>

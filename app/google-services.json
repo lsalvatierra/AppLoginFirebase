@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "537303501290",
+    "firebase_url": "https://applogin-d72eb.firebaseio.com",
+    "project_id": "applogin-d72eb",
+    "storage_bucket": "applogin-d72eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537303501290:android:a480a7f2104b13af",
+        "android_client_info": {
+          "package_name": "pe.edu.idat.apploginfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "537303501290-rkqrn2fogohj59jgq4o1n6l7vatembin.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pe.edu.idat.apploginfirebase",
+            "certificate_hash": "e323aa08e94e0138a0d5a08d1be46bac5ee21daf"
+          }
+        },
+        {
+          "client_id": "537303501290-1n1e5qj14pj4salkoj65g3gqn99poslo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBalMbofoR2k5fe3sM8Jdsg9yHOSBxFQUE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "537303501290-1n1e5qj14pj4salkoj65g3gqn99poslo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
